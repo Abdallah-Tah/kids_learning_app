@@ -1,4 +1,4 @@
-# alphabet_app
+# Kids Learning "Alphabet, Number and Colours"
 
 A new Flutter project.
 
